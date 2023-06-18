@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/prabhakarraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabhakarraii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prabhakar-raii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhakar-raii" height="30" width="40" /></a>
-<a href="https://instagram.com/@prabhakar_zoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@prabhakar_zoro" height="30" width="40" /></a>
+<a href="https://instagram.com/@prabhakar.zoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@prabhakar.zoro" height="30" width="40" /></a>
 <a href="https://www.behance.net/prabhakarrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prabhakarrai" height="30" width="40" /></a>
 <a href="https://hashnode.com/@prabhakarrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@prabhakarrai" height="30" width="40" /></a>
 </p>
