@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prabhakar Rai</h1>
-<h3 align="center">A UX designer & Front-end developer from India</h3>
+<h3 align="center">A Product designer & Front-end developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/prabhakarraii" target="blank"><img src="https://img.shields.io/twitter/follow/prabhakarraii?logo=twitter&style=for-the-badge" alt="prabhakarraii" /></a> </p>
 
-- 🔭 I’m currently working on **UX Case Studies**
+- 🔭 I’m currently working on **UX and HCI projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Front-end Development**
 
 - 👯 I’m looking to collaborate on **design projects**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://prabhakarrai.hashnode.dev/](https://prabhakarrai.hashnode.dev/)
 
-- 💬 Ask me about **UI/UX Design**
+- 💬 Ask me about **Product Design**
 
 - 📫 How to reach me **prabhakar.rai1709@gmail.com**
 
