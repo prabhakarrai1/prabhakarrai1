@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabhakar Rai</h1>
 <h3 align="center">A Product designer & Front-end developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/prabhakarraii" target="blank"><img src="https://img.shields.io/twitter/follow/prabhakarraii?logo=twitter&style=for-the-badge" alt="prabhakarraii" /></a> </p>
+<p align="left"> <a href="https://twitter.com/prabhakar_ux" target="blank"><img src="https://img.shields.io/twitter/follow/prabhakarraii?logo=twitter&style=for-the-badge" alt="prabhakarraii" /></a> </p>
 
 - 🔭 I’m currently working on **UX and HCI projects**
 
@@ -12,6 +12,8 @@
 - 🤝 I’m looking for help with **motion design**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/prabhakarrai](https://www.behance.net/prabhakarrai)
+  
+- 👨‍💻 Check out my design portfolio at [https://prabhakarrai.designfolio.me/](https://prabhakarrai.designfolio.me/)
 
 - 📝 I regularly write articles on [https://prabhakarrai.hashnode.dev/](https://prabhakarrai.hashnode.dev/)
 
